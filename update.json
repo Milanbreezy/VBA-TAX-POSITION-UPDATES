@@ -1,7 +1,7 @@
 {
-    "latest_version": "V2.7.3",
+    "latest_version": "V2.7.4",
     "mandatory": false,
-    "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-UPDATES/releases/download/V2.7.3/VBA.TAX.POSITION.V2.7.3.xlsm",
-    "sha256": "bd2ff6b4958e5aab046b1592e0b2a26f0aefd14b842d25cd0fe0d87bba00b1ee",
-    "release_notes": "Testing Enterprise Auto Update System."
+    "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-UPDATES/releases/download/V2.7.4/VBA.TAX.POSITION.V2.7.4.xlsm",
+    "sha256": "282c8081a8162dc880f3e9e937348217088a36cab3f5ffa16370959896861e4a",
+    "release_notes": "Improved AI officer assisstant response speed, added Quick User Guide, enhanced AI performance, improved system stability, fixed minor bugs and performance issues. We highly recommend updating to the latest version for a faster and better user experience."
 }
