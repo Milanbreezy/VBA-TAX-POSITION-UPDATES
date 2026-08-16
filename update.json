@@ -3,5 +3,5 @@
     "mandatory": false,
     "download_url": "https://github.com/Milanbreezy/VBA-TAX-POSITION-UPDATES/releases/download/V2.7.5/VBA.TAX.POSITION.V2.7.5.xlsm",
     "sha256": "625caca70681da26745e696307fce0cbe50b2b58483479c2b4ebe4ca3edd23ff",
-    "release_notes": "Improved AI officer assisstant response speed, added Quick User Guide, enhanced AI performance, improved system stability, fixed minor bugs and performance issues. We highly recommend updating to the latest version for a faster and better user experience."
+    "release_notes": "Enhanced the Non-Assessed Tax Scan and Review workflow, with improved group selection and clean-up controls, while also improving the Data Clean-up and Offset Engine to follow the required processing principles. The update introduces global and section-level Select All / Clear All controls, adds and improves the Quick User Guide documentation, and enhances interface consistency, button styling, and overall usability. Minor bugs have also been addressed to improve system stability and reliability."
 }
